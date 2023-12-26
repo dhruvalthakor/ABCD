@@ -9,14 +9,14 @@ int main()
     printf("  *        *   \n");
     printf(" *          *   \n");
     
-    printf("-----b-----\n");
+    printf("-----B-----\n");
     printf("    * * *   \n");
     printf("    *    *   \n");
     printf("    * * *   \n");
     printf("    *    *   \n");
     printf("    * * *   \n");
     
-    printf("-----c-----\n");
+    printf("-----C-----\n");
     printf("     * * *  \n");
     printf("   *      \n");
     printf("   *     \n");
@@ -159,7 +159,7 @@ int main()
     printf("  *     *\n");
     printf("    * *          \n");
     
-            printf("-----U-----\n");
+            printf("-----v-----\n");
     printf(" *       *\n");
     printf("  *     * \n");
     printf("   *   *\n");
@@ -189,7 +189,7 @@ int main()
     printf("      *          \n");
     printf("      *          \n");
 
-    printf("-----U-----\n");
+    printf("-----Z-----\n");
     printf("  * * * *\n");
     printf("       * \n");
     printf("      * \n");
